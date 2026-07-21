@@ -16,7 +16,7 @@ Rather than following isolated tutorials, this repository documents the complete
 - Improve Linux administration skills
 - Build secure containerized services
 - Practice networking and DNS
-- Document architecture professionally
+- Create and document clean architecture
 - Develop blue-team security skills
 
 ---
