@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="fHi9NuRg61GjT87RcLwl">
+    <mxGraphModel dx="480" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zK8tULWen40QN5Fri_oS-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h1&gt;&lt;font face=&quot;Georgia&quot;&gt;User&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="169.06" width="70.93" x="283.76" y="40.93" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;or&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="40" width="40" x="300" y="169.99" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Home LAN&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="163.76" y="159.99" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Tailscale&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354.69" y="159.99" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="169.06" width="70.93" x="284.53499999999997" y="169.995" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Pi-Hole DNS&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="279.06" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-21" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="204.31" width="70.93" x="284.53000000000003" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Local DNS Records&lt;/font&gt;&lt;/h2&gt;&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;(.home.arpa)&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="70" width="190" x="90" y="404.31" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Unbound&lt;br&gt;Recursive DNS&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="70" width="190" x="354.69" y="404.31" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-24" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="205.69" width="70.93" x="284.53" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;DNS returns IP Address&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="195" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="640" as="sourcePoint" />
+            <mxPoint x="320" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;HTTPS :443&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="135" x="252.5" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="318.73" y="740" as="sourcePoint" />
+            <mxPoint x="318.73" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Caddy Reverse Proxy&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="225" x="207.5" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="319.5" y="840" as="sourcePoint" />
+            <mxPoint x="319.5" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Docker Network&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="225" x="206.73" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-33" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="475.16" width="70.93" x="285.26" y="695.58" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Container&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="135" x="28.75999999999999" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Container&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="135" x="251.73" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Container&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="135" x="474.69" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="zK8tULWen40QN5Fri_oS-38" edge="1" parent="1" source="zK8tULWen40QN5Fri_oS-36" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="980" as="sourcePoint" />
+            <mxPoint x="320" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
