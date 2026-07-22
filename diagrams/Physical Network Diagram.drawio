@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="1hh_ESUmVvbDWP8XB3Au">
+    <mxGraphModel dx="719" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9yfad_12cq2wu44agW90-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h1&gt;&lt;font face=&quot;Georgia&quot;&gt;Internet&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="319.5" y="180" as="sourcePoint" />
+            <mxPoint x="319.5" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;ISP Router&lt;br&gt;&lt;/font&gt;&lt;font face=&quot;Georgia&quot;&gt;192.168.1.1&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="319.5" y="300" as="sourcePoint" />
+            <mxPoint x="319.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Home LAN&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="330" as="sourcePoint" />
+            <mxPoint x="260" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="329.5" as="sourcePoint" />
+            <mxPoint x="560" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="730" as="sourcePoint" />
+            <mxPoint x="80" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Wi-Fi&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-12" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="420" as="sourcePoint" />
+            <mxPoint x="80" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="189.5" y="620" as="sourcePoint" />
+            <mxPoint x="189.5" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="490" as="sourcePoint" />
+            <mxPoint x="190" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-15" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="560" as="sourcePoint" />
+            <mxPoint x="190" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="620" as="sourcePoint" />
+            <mxPoint x="190" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;MacBook&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;iPhone&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;TV&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="730" as="sourcePoint" />
+            <mxPoint x="80" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Ethernet&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-22" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="190" y="800" as="sourcePoint" />
+            <mxPoint x="189.5" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Wall Jack&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="190" y="900" as="sourcePoint" />
+            <mxPoint x="189.5" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;Network&lt;br&gt;Switch&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-27" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="189.5" y="1050" as="sourcePoint" />
+            <mxPoint x="189.5" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="1000" as="sourcePoint" />
+            <mxPoint x="190" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="1050" as="sourcePoint" />
+            <mxPoint x="190" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;PlayStation&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="9yfad_12cq2wu44agW90-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;font face=&quot;Georgia&quot;&gt;PC / Home Server&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="1040" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
